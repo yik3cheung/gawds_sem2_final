@@ -4,3 +4,28 @@ header {
     font-style: normal;
     font-size: 20px
 }
+
+.masterhead {
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+    color: black;
+}
+
+h1 {
+    color: black;
+    font-family: apolline, serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 65px
+}
+
+.about_text {
+    margin-top: 400px;
+}
+
+.about_text_l {
+    font-size: 100px;
+    float: right;
+    width: 50%;
+}
