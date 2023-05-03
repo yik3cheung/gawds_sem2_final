@@ -9,3 +9,29 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.cardtitle {
+    font-family: apolline, serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 100px;
+}
+
+.cardbody {
+    font-family: acumin-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px
+}
+
+.footcopy {
+    font-family: acumin-pro, sans-serif;
+    font-weight: 200;
+    font-style: normal; 
+}
+
+.footlist {
+    font-family: acumin-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
