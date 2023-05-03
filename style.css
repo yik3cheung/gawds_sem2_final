@@ -9,3 +9,9 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.aboutbanner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
