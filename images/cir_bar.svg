@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1236.12 121.5">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: 10px;
-      }
-    </style>
-  </defs>
-  <line class="cls-1" x1="0" y1="116.5" x2="1236.12" y2="116.5"/>
-  <path d="m166.44,10c26.74,0,48.5,21.76,48.5,48.5s-21.76,48.5-48.5,48.5-48.5-21.76-48.5-48.5,21.76-48.5,48.5-48.5m0-10c-32.31,0-58.5,26.19-58.5,58.5s26.19,58.5,58.5,58.5,58.5-26.19,58.5-58.5S198.75,0,166.44,0h0Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1236.12 121.5" style="enable-background:new 0 0 1236.12 121.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="st0" x1="0" y1="116.5" x2="1236.12" y2="116.5"/>
+</g>
+<g>
+	<path d="M96.09,10c26.74,0,48.5,21.76,48.5,48.5S122.84,107,96.09,107s-48.5-21.76-48.5-48.5S69.35,10,96.09,10 M96.09,0
+		c-32.31,0-58.5,26.19-58.5,58.5S63.78,117,96.09,117s58.5-26.19,58.5-58.5S128.4,0,96.09,0L96.09,0z"/>
+</g>
 </svg>
