@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1236.12 121.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #0000d4;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: red;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2 {
+        stroke: red;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="37.94" width="121" height="121"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="37.94" width="121" height="121"/>
+    </clipPath>
+  </defs>
+  <line class="cls-2" x1="0" y1="116.5" x2="1236.12" y2="116.5"/>
+  <g class="cls-3">
+    <rect class="cls-6" x="37.94" width="121" height="121"/>
+    <g class="cls-7">
+      <path class="cls-5" d="m158.94,60.5C158.94,27.09,131.85,0,98.44,0s-60.5,27.09-60.5,60.5,27.09,60.5,60.5,60.5,60.5-27.09,60.5-60.5"/>
+      <polygon class="cls-4" points="98.44 121 37.94 0 158.94 0 98.44 121"/>
+    </g>
+  </g>
+</svg>
