@@ -66,3 +66,17 @@ header {
     font-style: normal;
     font-size: 20px;
 }
+
+.menu_item {
+    font-family: apolline, serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 28px;
+}
+
+.menu_price {
+    font-family: acumin-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 26px;
+}
