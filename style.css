@@ -122,3 +122,10 @@ header {
     font-style: normal;
     font-size: 17px;
 }
+
+.about_body {
+    font-family: acumin-pro-semi-condensed, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
