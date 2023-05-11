@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229 84.78">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: ApollineStd-ExtraBoldItalic, 'Apolline Std';
+        font-size: 72px;
+        font-style: italic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(0 60.01)"><tspan class="cls-4" x="0" y="0">R</tspan><tspan x="48.1" y="0">e</tspan><tspan class="cls-1" x="79.34" y="0">c</tspan><tspan x="106.56" y="0">i</tspan><tspan class="cls-3" x="127.58" y="0">p</tspan><tspan class="cls-2" x="165.89" y="0">es</tspan></text>
+</svg>
