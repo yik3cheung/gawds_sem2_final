@@ -129,3 +129,11 @@ header {
     font-style: normal;
     font-size: 20px;
 }
+
+.top_credit {
+    font-family: apolline, serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 23px;
+    text-align:center;
+}
